@@ -1,6 +1,6 @@
 {
   "short_name": "Quasi Blog",
-  "name": "Quasi Blog",
+  "name": "Quasi Blog - React application that imitates a simple blog",
   "icons": [
     {
       "src": "favicon.ico",
